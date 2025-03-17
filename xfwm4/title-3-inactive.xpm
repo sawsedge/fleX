@@ -2,7 +2,7 @@
 static char * title_3_inactive_xpm[] = {
 "1 30 4 1",
 " 	c None",
-".	c #117733 s inactive_color_1",
+".	c #557755 s inactive_color_1",
 "+  c #888888 s inactive_color_2",
 "b  c Black",
 "b",
