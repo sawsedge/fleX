@@ -1,6 +1,6 @@
 This is an XFCE 4 theme.  Initially adapted from mx-comfort-dark by MXLinux, and influenced by several other themes, such as Default, Numix, Kokodi, and Borders by Richard Wurth. 
       
-      -  I wanted colored borders to differentiate the active window without being too obnoxious.
+      -  I wanted colored borders to differentiate the active window.
       -  It uses the highlight color from the current GTK theme for the border color. 
       -  The borders are thick so they are easier to "grab" with the mouse.
       -  Buttons go wherever the user places them via XFCE Window Manager Style tab.
