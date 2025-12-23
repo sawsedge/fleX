@@ -5,7 +5,7 @@ This is an XFCE 4 theme.  Initially adapted from mx-comfort-dark by MXLinux, and
       -  The borders are thick so they are easier to "grab" with the mouse.
       -  Buttons go wherever the user places them via XFCE Window Manager Style tab.
 
-In my testing so far, it works well with most light and dark GTK themes.  I don't like the result with Breeze Dark GTK theme because it picks up lighter borders on the inactive window.
+It works well with most light and dark GTK themes.  I don't like the result with Breeze Dark GTK theme because it picks up lighter borders on the inactive window.
 
 To install, untar in your ~/.themes folder, or /usr/share/themes (or equivalent) if you want it available to all users.
 
